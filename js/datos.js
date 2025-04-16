@@ -33,6 +33,22 @@ var datosGeoJSON = {
         ]
       }
   }
+  ,
+  {
+    "type": "Feature",
+    "properties": {
+      "nombre": "Miguel González Oubiña",
+      "border-color": "#00bfff",
+      "fill-color": "#0c7892" 
+    },
+    "geometry": { //BREMEN
+        "type": "Point",
+        "coordinates": [
+          8.8177382,
+          53.1013963 
+        ]
+      }
+  }
  
 ]
 }
