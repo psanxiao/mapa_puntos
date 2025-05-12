@@ -49,6 +49,22 @@ var datosGeoJSON = {
         ]
       }
   }
+  ,
+  {
+    "type": "Feature",
+    "properties": {
+      "nombre": "Natalia Barrientos",
+      "border-color": "#663300",
+      "fill-color": "#ff9900" 
+    },
+    "geometry": { //PALMA
+        "type": "Point",
+        "coordinates": [
+          2.6535382,
+          39.576335 
+        ]
+      }
+  }
  
 ]
 }
